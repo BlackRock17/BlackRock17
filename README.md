@@ -33,6 +33,9 @@
 
 ## Certifications
 <span>
+  <a href="https://softuni.bg/certificates/details/225784/79c50fcb" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Diploma.jpg" alt="Diploma" width="200" height="300">
+  </a>
   <a href="https://softuni.bg/certificates/details/212675/bfd1443f" target="_blank">
     <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Django_Advance.jpg" alt="Django Advance" width="200" height="300">
   </a>
