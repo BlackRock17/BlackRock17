@@ -25,6 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap Logo">
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSC Logo" margin-right: 10px;>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="VSC Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jira/jira-original-wordmark.svg" width="40" height="40" alt="VSC Logo" margin-right: 10px;>
   <img src="https://static-00.iconduck.com/assets.00/datagrip-icon-512x506-gxts7u3e.png" width="40" height="40" alt="DataGrip Logo" margin-right: 10px;>
   <img src="https://static-00.iconduck.com/assets.00/regex-icon-2048x2043-arbrscqt.png" width="40" height="40" alt="Regex Logo" margin-right: 10px;>
