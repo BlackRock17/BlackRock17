@@ -16,22 +16,23 @@
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" width="40" height="40" alt="HTML Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" width="40" height="40" alt="CSS Logo" margin-right: 10px;>
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" width="40" height="40" alt="CSS Logo" margin-right: 10px;>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg" width="40" height="40" alt="Docker Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg" width="40" height="40" alt="Git Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" width="40" height="40" alt="GitHub Logo" margin-right: 10px;>
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nginx/nginx-original.svg" width="40" height="40" alt="GitHub Logo" margin-right: 10px;>
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/azure/azure-original-wordmark.svg" width="40" height="40" alt="GitHub Logo" margin-right: 10px;>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" margin-right: 10px;>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/azure/azure-original-wordmark.svg" width="40" height="40" alt="Azure" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" alt="SQLA Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap Logo">
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSC Logo" margin-right: 10px;>
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="VSC Logo" margin-right: 10px;>
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jira/jira-original-wordmark.svg" width="40" height="40" alt="VSC Logo" margin-right: 10px;>
-  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/trello/trello-plain-wordmark.svg" width="40" height="40" alt="VSC Logo" margin-right: 10px;>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="40" height="40" alt="DataGrip Logo" margin-right: 10px;>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" margin-right: 10px;>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jira/jira-original-wordmark.svg" width="40" height="40" alt="Jira" margin-right: 10px;>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/trello/trello-plain-wordmark.svg" width="40" height="40" alt="Trello" margin-right: 10px;>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="40" height="40" alt="Terraform" margin-right: 10px;>
+  <img src="https://miro.medium.com/v2/resize:fit:480/0*KcYUfZdhZK0kg3Wv.png" width="40" height="40" alt="Prometeus" margin-right: 10px;>
   <img src="https://static-00.iconduck.com/assets.00/datagrip-icon-512x506-gxts7u3e.png" width="40" height="40" alt="DataGrip Logo" margin-right: 10px;>
   <img src="https://static-00.iconduck.com/assets.00/regex-icon-2048x2043-arbrscqt.png" width="40" height="40" alt="Regex Logo" margin-right: 10px;>
 </span>
