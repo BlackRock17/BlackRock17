@@ -31,6 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jira/jira-original-wordmark.svg" width="40" height="40" alt="Jira" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/trello/trello-plain-wordmark.svg" width="40" height="40" alt="Trello" margin-right: 10px;>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" margin-right: 10px;>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUxjtaFJ76OcfcQZ9B-Nose2CB0tLB6HutA&s" width="40" height="40" alt="Grafana" margin-right: 10px;>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="40" height="40" alt="Terraform" margin-right: 10px;>
   <img src="https://miro.medium.com/v2/resize:fit:480/0*KcYUfZdhZK0kg3Wv.png" width="40" height="40" alt="Prometeus" margin-right: 10px;>
