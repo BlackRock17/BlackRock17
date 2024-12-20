@@ -36,6 +36,9 @@
   <a href="https://softuni.bg/certificates/details/225784/79c50fcb" target="_blank">
     <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Diploma.jpg" alt="Diploma" width="200" height="300">
   </a>
+  <a href="https://softuni.bg/certificates/details/232900/42f7181c" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Containers_and_Cloud.jpg" alt="Containers and Cloud" width="200" height="300">
+  </a>
   <a href="https://softuni.bg/certificates/details/229516/30ad4f22" target="_blank">
     <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Software_Engineering_and_DevOps.jpg" alt="Software_Engineering_and_DevOps" width="200" height="300">
   </a>
