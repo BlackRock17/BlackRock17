@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jetbrains/jetbrains-original.svg" width="40" height="40" alt="JetBrains" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" alt="Jquery" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter" margin-right: 10px;>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown" margin-right: 10px;>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUxjtaFJ76OcfcQZ9B-Nose2CB0tLB6HutA&s" width="40" height="40" alt="Grafana" margin-right: 10px;>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="40" height="40" alt="Terraform" margin-right: 10px;>
   <img src="https://miro.medium.com/v2/resize:fit:480/0*KcYUfZdhZK0kg3Wv.png" width="40" height="40" alt="Prometeus" margin-right: 10px;>
