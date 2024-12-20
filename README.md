@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/git/git-original.svg" width="40" height="40" alt="Git Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" width="40" height="40" alt="GitHub Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nginx/nginx-original.svg" width="40" height="40" alt="GitHub Logo" margin-right: 10px;>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/azure/azure-original-wordmark.svg" width="40" height="40" alt="GitHub Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL Logo" margin-right: 10px;>
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" alt="SQLA Logo" margin-right: 10px;>
