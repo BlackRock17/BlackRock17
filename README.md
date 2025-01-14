@@ -53,6 +53,9 @@
 
 ## Certifications
 <span>
+  <a href="https://softuni.bg/certificates/details/235088/77fc5f04" target="_blank">
+    <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Diploma_Full-Stack.jpg" alt="Diploma_Full-Stack" width="200" height="300">
+  </a>
   <a href="https://softuni.bg/certificates/details/225784/79c50fcb" target="_blank">
     <img src="https://github.com/BlackRock17/Lyu/blob/main/images/Diploma.jpg" alt="Diploma" width="200" height="300">
   </a>
