@@ -2,8 +2,9 @@
 
   - I'm a passionate Python/JS web developer who loves learning and exploring new technologies. With a strong foundation in Python, I enjoy building robust and interactive web applications.
 
-  - In addition to web development, I have a keen interest in blockchain and smart contract technologies. I am fascinated by the potential of decentralized systems and their applications in various industries. I am actively learning about these cutting-edge technologies and exploring ways to integrate them into my projects.
-- When I'm not coding, you can find me swimming or playing chess. I believe in the power of continuous learning and always strive to expand my knowledge in the ever-evolving world of technology.
+  - In addition to web development, I am deeply engaged in blockchain, smart contract technologies, and the rapidly evolving fields of Data Engineering and Artificial Intelligence. I'm particularly focused on leveraging AI technologies and data pipeline architectures       to create scalable solutions. My experience spans from designing efficient ETL processes to implementing machine learning models, combining my software engineering background with data-driven approaches. I am fascinated by the potential of these technologies to         transform industries and actively explore their integration in decentralized systems.
+   
+  - When I'm not coding, you can find me swimming or playing chess. I believe in the power of continuous learning and always strive to expand my knowledge in the ever-evolving world of technology.
   
 
 ---
